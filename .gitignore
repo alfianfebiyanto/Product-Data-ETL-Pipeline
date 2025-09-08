@@ -1,3 +1,9 @@
+# === pyton ===
 venv/
+
+
+# === data ===
 *.csv
+
+# === config/sensitive ===
 .env
