@@ -57,9 +57,10 @@ def transform_data_products(df_products):
     # actual price
     df_products['currency']= df_products['actual_price'].str[:1]
     df_products['actual_price'] = df_products['actual_price'].str.replace(r'[₹,]','', regex=True).astype(float)
+    df_products = df_products.replace(0, np.nan)
 
-    # membuat kolom diskon amount
-    df_products['discount_amount'] = df_products['actual_price'] - df_products['discount_price']
+    # Membuat discount_percentage
+    df_products['discount_percentage'] = ((df_products['actual_price'] - df_products['discount_price']) / df_products['actual_price'] * 100).round(1)
 
     return df_products
 
