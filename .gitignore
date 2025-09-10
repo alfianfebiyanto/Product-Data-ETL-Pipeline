@@ -1,7 +1,6 @@
 # === pyton ===
 venv/
 
-
 # === data ===
 *.csv
 
