@@ -22,8 +22,9 @@ Tahapan yang saya kerjakan meliputi:
 - Folder **data** tidak ditampilkan karena ukurannya melebihi 100MB (batas GitHub).  
 - **Alternatif**: penggunaan Git LFS sudah dicoba, namun saat ini masih terkendala upload.  
 
-**Video Penjelasan Project**: [Link Video di sini]  
-**Dataset & File Lengkap**: [Link File di sini]  
+**Video Penjelasan Project**: [Link Video di sini](https://youtu.be/xnvgH0_mnNQ?si=pw7cn6tE89XfsGQ4) 
+
+**Dataset & File Lengkap**: [Link File di sini](https://drive.google.com/drive/folders/1jbq8w5T_DyiR2mW-pH1Qfv3kB7LEBIuC?usp=drive_link)
 
 ---
 
