@@ -24,7 +24,7 @@ Tahapan yang saya kerjakan meliputi:
 
 **Video Penjelasan Project**: [Link Video di sini](https://youtu.be/xnvgH0_mnNQ?si=pw7cn6tE89XfsGQ4) 
 
-**Dataset & File Lengkap**: [Link File di sini](https://drive.google.com/drive/folders/1jbq8w5T_DyiR2mW-pH1Qfv3kB7LEBIuC?usp=drive_link)
+**Dataset & File Lengkap**: [Link File di sini](https://drive.google.com/drive/folders/1ck1D2Uc4JGxjfc-ueEasS6ghqTciBF-l?usp=sharing)
 
 ---
 
@@ -54,5 +54,6 @@ etl-project-capstone-1-alfian-febiyanto/
   ├─ Requirement_clean.ipynb  ← eksplorasi data requirement
   ├─ requirements.txt         ← dependencies
   └─ README.md                ← dokumentasi project
+
 
 
